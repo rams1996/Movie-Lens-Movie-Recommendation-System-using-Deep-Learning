@@ -1,4 +1,4 @@
-# Movie-Lens-Movie-Recommendation-System-using-Deep-matrix-factorization-Method
+# Movie-Lens-Movie-Recommendation-System-using-Deep-Learning
 This is a Deep learning model for recommendation systems with implementation in movie lens 100k and 1m database. 
 This is the result of a research work carried out on Recommendation systems using deep learning. Our model was inspired from the paper "Deep matrix factorization models
 for recomendation systems". 
